@@ -1,0 +1,11 @@
+--------------------------------------------------------------------------
+>>> Logging System turn on.
+>>> mark 
+11/18 14:37:42 - VertexShader HW Accel Enabled
+11/18 14:37:42 - Cannot read [[inven_bg3]] in UI TextureSetList
+11/18 14:37:42 - Cannot read [255,0,0,228,240,0,0] in UI TextureSetList
+11/18 14:37:42 - Error in Init Render Target Texture
+11/18 14:38:08 - >> New Field Scene
+11/18 14:38:08 - >> Init Field Scene::Start
+11/18 14:38:08 - Reading Error : mesh\\mega001.msa
+11/18 14:38:09 - >> Init Field Scene::End

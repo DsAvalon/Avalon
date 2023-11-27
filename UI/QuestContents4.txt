@@ -1,0 +1,216 @@
+FFFF00                         DropList The Last Kingdom Medium.
+7CFC00 - Qualquer erro ou falta de item, contate a administração.
+FFFFFF 
+FFFFFF
+FFFFFF  
+FFFF00 
+FFFFFF 
+FFFFFF 
+FFFF00  
+FFFFFF 
+FFFF00 
+FFFFFF 
+FFFF00
+FFFFFF 
+FFFFFF  
+FFFF00
+FFFFFF 
+FFFFFF  
+FFFFFF 
+FFFFFF 
+FFFF00 [Lobo Polar] 
+FFFFFF Manoplas: Flamejantes, Destruição, Rake, Guardiã.
+FFFFFF Pedra da Luz, Classe E, Defesa Contra Gelo.
+FFFFFF Resto de Lactolerium, Resto de Oriharucon, Poeira de 
+FFFFFF Lactolerium, Poeira de Oriharucon. 
+FFFF00 [Grande Lobo]
+FFFFFF Calça: Flamejante, Destruição, Rake, Guardiã. 
+FFFFFF Armadura: Flamejante, Destruição, Rake, Guardiã. 
+FFFFFF Pedra da Luz, Resto de Lactolerium, Resto de Oriharucon
+FFFFFF Poeira de Lactolerium, Poeira de Oriharucon. 
+FFFF00 [Urso Polar]
+FFFFFF Botas: Flamejante, Destruição, Rake, Guardiã.
+FFFFFF Manoplas: Flamejante, Destruição, Rake, Guardiã.
+FFFFFF Pedra da Luz, classe E, Hophlon, Defesa Contra Gelo.
+FFFF00 [Ent Ancião]
+FFFFFF Botas: Rake, Destruição  
+FFFFFF Luna, Brinco Zeus, Pedra da Luz.
+FFFFFF Brinco Zeus, Resto de Lactolerium, Resto de Oriharucon.
+FFFFFF Coral, Ankh da Justiça, Classe E, Luna, Defesa contra Sagrado.
+FFFF00 
+FFFF00 [Homem Kalintz]
+FFFFFF Ovo de Andaluz B, Âmago de Andaluz B.
+FFFFFF Caliburn, Khyrius, Thrasytes, Basileus, Balmung, Hermai, 
+FFFFFF Skytalos.  
+FFFF00 [Mulher Kalintz]
+FFFFFF Ovo de Andaluz N, Âmago de Andaluz N.
+FFFFFF Gleipnir, Eirenus, Hoplhon, Neorion.
+FFFF00 [Guerreiro Amon] 
+FFFFFF Botas: Flamejante, Destruição, Rake, Guardiã.
+FFFF00 [Soldado Amon]
+FFFFFF Classe E, Pedra da luz, Hophlon.
+FFFF00 [Capitão Amon]
+FFFFFF Escudo do Guardião.
+FFFFFF Pedra da Luz, Classe E.
+FFFFFF Armadura: Destruição, Rake, Guardião.
+FFFFFF Resto de Lactolerium, Resto de Oriharucon.
+FFFFFF Poeira de Lactolerium, Poeira de Oriharucon. 
+FFFFFF 
+FFFFFF 
+FFFFFF 
+FFFF00 [Simio Ancião]
+FFFFFF Fúria divina.
+FFFFFF Set Elemental(M).
+FFFFFF Bota: Guardiã, Bota Flamejantes.
+FFFFFF Livro Ressurreição(Skill Sephira).
+FFFF00 [Troll De Gelo]
+FFFFFF Classe E, Pedra da Luz.
+FFFFFF Manoplas: Rake, Destruição.
+FFFFFF Ankh da Glória.
+FFFF00 [Valquiria Rozen]
+FFFFFF Set Legionário completo.
+FFFFFF Ovo de Pegasus, Âmago de Pegasus.
+FFFFFF Karikas, Força Eterna, Éden, Demolidor Celestial.
+FFFF00 [Titã Berserker]
+FFFFFF Set completo Corvo.
+FFFFFF Set completo Mortal.
+FFFFFF Pergaminho Selado, Classe E.
+FFFFFF Karikas, Força Eterna, Éden, Demolidor Celestial, Dianus.
+FFFFFF 
+FFFFFF 
+FFFF00 [Berserker Ref]
+FFFFFF Set completo Corvo.
+FFFFFF Set completo Mortal.
+FFFFFF Ovo Andaluz N e Âmago Andaluz N.
+FFFFFF Pergaminho Selado, Classe E, Foice Platinada.
+FFFFFF Asa Draconiana, Arco Guardião, Dianus, Vingadora.
+FFFF00 [Guarda Beriel]
+FFFFFF Força Spectral.
+FFFFFF Diamante, Coral, Esmeralda, Garnet.
+FFFFFF Poeira de Lactolerium, Poeira de Oriharucon. 
+FFFFFF Éden, Karikas, Força Eterna, Cajado Caótico,
+FFFFFF Demolidor Celestial.
+FFFF00 [Mago Amaldiçoado]
+FFFFFF Set: Mytril [ Le].
+FFFFFF Âmago De Unicórnio e Unisus.
+FFFF00 [Shamã Amaldiçoado]
+FFFFFF Set: Elemental [LE].
+FFFFFF Âmago De Unicórnio e Unisus.
+FFFFFF 
+FFFFFF 
+FFFF00 [Ranger Amaldiçoado]
+FFFFFF Set: Teia[LE].
+FFFFFF Âmago De Unicórnio e Unisus.
+FFFF00 [Templário Amaldiçoado]
+FFFFFF Set: Embutido [LE].
+FFFFFF Âmago De Unicórnio e Unisus.
+FFFFFF 
+7CFC00 Itens que não estão listados ainda não foram liberados.
+FFFFFF 
+FFFFFF 
+FFFFFF 
+FFFFFF 
+FFFFFF 
+FFFFFF 
+FFFFFF 
+FFFFFF 
+FFFFFF
+FFFFFF 
+FFFFFF 
+FFFFFF 
+FFFF00 [Tauron]
+FFFFFF Todos os Set's [D], Poeira De Ori, Poeira De Lac, Gema Siren.
+FFFF00 [Ladrão Tauron]
+FFFFFF Set: Calça (D).
+FFFFFF Âmago de Fenrir, Ovo de Fenrir.
+FFFFFF Poeira De Ori , Poeira De Lac.
+FFFFFF Defesa contra Fogo, Defesa contra Gelo.
+FFFF00 [Arqueiro Tauron]
+FFFFFF Outros: Botas (D).
+FFFFFF Defesa contra Relâmpago, Defesa contra Sagrado.
+FFFF00 [Tauron Assassino]
+FFFFFF Ankh da Justiça, Poeira de Lac.
+FFFFFF Luna, olho do Carbunkle , Lança Relâmpago , Gram, 
+FFFFFF Gungnir , Martelo Psíquico, Âmago de Fenrir.
+FFFFFF Martelo Dragão. Cajado de Âmbar, Arco Élfico.
+FFFF00 [Verme]
+FFFFFF Martelo Assassino,Cruz Sagrada.
+FFFFFF Arco Guardião , Karikas , Luna , Asa Draconiana,
+FFFFFF Peito[E]: Corvo, Mortal, Templário, Legionário.
+FFFFFF Diamante, Ankh de Eternidade, Poeira De ori , Poeira De Lac.
+FFFF00 [Adamant Tauron]
+FFFFFF Sets: Sets E (Mortal, Templário, Corvo, Legionário).
+FFFFFF Demolidor Celestial, Foice Platinada, Lança do Triunfo, Mjolnir.
+FFFFFF Anhk de Glória, Adamantita, Cajado de Âmbar.
+FFFF00 [Treant]
+FFFFFF Sets: (D), Armas: (D) e (E).
+FFFFFF Resistência contra Sagrado.
+FFFFFF Espada Vorpal, Mjolnir. 
+FFFF00 [Mantícora]
+FFFFFF Sets[ E] (Mortal, Templário, Corvo, Legionário).
+FFFFFF Solaris, Eden, Vorpal, Vingadora, Martelo Assassino, Asa Draconiana.
+FFFFFF Pedra Da Mantícora (Pedra da Beleza).
+FFFF00 [Lugefer]
+FFFFFF Safira, Fúria Divina.
+FFFFFF Poeira de Lactolerium, Poeira de Oriharucon.
+FFFFFF Bota Rake [E], Calça Rake [E], TK: Bota Flamejante [E].
+FFFFFF Bota Elemental [D], Bota Destruição [E], FM: Bota Mytril [D].
+FFFFFF Ankh da: Glória, Eternidade, Justiça. 
+FFFFFF Defesa contra: Gelo, Fogo, Sagrado, Relampago. 
+FFFFFF 
+FFFF00 [Cavaleiro Lugefer]
+FFFFFF Pedra Do Lugefer, Alma do Únicornio.
+FFFFFF Sets (D) A e Archs (Todas as classes), Armas [D].
+FFFFFF 
+FFFFFF 
+FFFFFF 
+FFFFFF 
+FFFFFF 
+FFFFFF 
+FFFFFF 
+FFFFFF 
+FFFFFF 
+FFFFFF 
+FFFFFF 
+FFFFFF 
+FFFFFF 
+FFFFFF 
+FFFFFF 
+FFFFFF 
+FFFFFF 
+FFFF00 [Aranha Dourada]
+FFFFFF Cajado_da_Jóia_Azul.
+FFFFFF Set completo Aeon[Le], Pedra Da Luz, Pedra do Sábio.
+FFFFFF Resto de Lactolerium, Resto de Oriharucon.
+FFFF00 [Aranha Rubra]
+FFFFFF Pedra de Beril, Lança relampago.
+FFFF00 [Verme Dourado] 
+FFFFFF Resto de Lactolerium, Resto de Oriharucon.
+FFFF00 [Simio]
+FFFFFF Poeira  de Lactolerium, Poeira de Oriharucon.
+FFFFFF Resto de Lactolerium, Resto de Oriharucon.
+FFFF00 [Simio Bleg]
+FFFFFF Poeira  de Lactolerium, Poeira de Oriharucon.
+FFFFFF Resto de Lactolerium, Resto de Oriharucon.
+FFFF00 [Horizon Cropper]
+FFFFFF Pedra Tectita.
+FFFFFF Pista das Runas+0.
+FFFFFF Poeira  de Lactolerium, Poeira de Oriharucon.
+FFFFFF Resto de Lactolerium, Resto de Oriharucon.
+FFFFFF 
+FFFF00 [Xeno Cropper] 
+FFFFFF Pedra Tectita.
+FFFFFF Moeda de Ouro 1.
+FFFFFF Garra Draconiana.
+FFFFFF Poeira  de Lactolerium, Poeira de Oriharucon.
+FFFFFF Resto de Lactolerium, Resto de Oriharucon.
+FFFF00 [Batorero]
+FFFFFF Âmago de unisus, book Concentração.
+FFFFFF Diamante, Esmeralda, Coral, Garnert. 
+FFFFFF Poeira  de Lactolerium, Poeira de Oriharucon.
+FFFFFF Resto de Lactolerium, Resto de Oriharucon.
+FFFFFF Martela Assassino, Fúria Divina, Arco Divino, 
+FFFFFF Espada Vorpal, Cruz Sagrada, Lança do Triunfo, 
+FFFFFF Martelo Psiquico, Presas de Behemoth, Martela Sykik.
+FFFFFF 
+

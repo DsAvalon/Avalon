@@ -1,0 +1,12 @@
+001 AAAAAA Aeon Tauron
+002 AAAAAA Agmo Argos
+002 AAAAAA Agmo Cabuncle
+002 AAAAAA Agmo Carbunkle
+002 AAAAAA Agmo Caveira
+002 AAAAAA Agmo Ciclope
+002 AAAAAA Amon Chief
+002 AAAAAA Amon
+002 AAAAAA Aqua Golem   
+002 AAAAAA Aranha Dourada 
+002 AAAAAA Aranha Inferno
+002 AAAAAA Aranha Rubra
